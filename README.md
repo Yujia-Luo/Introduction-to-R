@@ -9,7 +9,7 @@ Please download Data.xlsx and IC.xlsx, which are coupled with the R script.
 Data.xlsx is used for the whole three sessions. The data contains information about some basic soil properties after application of compost and biochar, with low and high doses.   
 IC.xlsx is used for the session 2.  
 
-Below are the packages you need to install for your RStudio:
+Below are the packages you need to install for your RStudio:  
 install.packages(readxl)  
 install.packages(dplyr)  
 install.packages(ggplot2)  
