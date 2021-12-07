@@ -5,6 +5,8 @@ Session 1 basic syntax
 Session 2 data manipulation and plotting  
 Session 3 basic statistics  
 
+Regarding how to download and install R and RStudio, please refer to the file "0.Installation.html"  
+
 Please download Data.xlsx and IC.xlsx, which are coupled with the R script.  
 Data.xlsx is used for the whole three sessions. The data contains information about some basic soil properties after application of compost and biochar, with low and high doses.   
 IC.xlsx is used for the session 2.  
