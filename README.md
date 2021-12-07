@@ -7,7 +7,7 @@ Session 3 basic statistics
 
 **The powerpoints show the content for each session, and the html files contain the practices in Rstudio**  
 
-Regarding how to download and install R and RStudio, please refer to the file "0.Installation.html"  
+Regarding how to download and install R and RStudio, please refer to the file "Installation.html"  
 
 Please download Data.xlsx and IC.xlsx, which are coupled with the R script.  
 Data.xlsx is used for the whole three sessions. The data contains information about some basic soil properties after application of compost and biochar, with low and high doses.   
