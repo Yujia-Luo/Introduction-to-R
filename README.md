@@ -5,8 +5,8 @@ Session 1 basic syntax
 Session 2 data manipulation and plotting  
 Session 3 basic statistics  
 
-**The powerpoints show the content for each session, and the html files contain the practices in Rstudio** 
-**You can download all these files by click the green box "code" -- > ""download zip""**  
+**The powerpoints show the content for each session, and the html files contain the practices in Rstudio**   
+**You can download all these files by clicking the green box "Code" -- > "Download ZIP"**  
 
 Regarding how to download and install R and RStudio, please refer to the file "Installation.html"  
 
