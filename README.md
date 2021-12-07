@@ -5,6 +5,8 @@ Session 1 basic syntax
 Session 2 data manipulation and plotting  
 Session 3 basic statistics  
 
+**The powerpoints show the content for each session, and the htlm files contain the practices in Rstudio**  
+
 Regarding how to download and install R and RStudio, please refer to the file "0.Installation.html"  
 
 Please download Data.xlsx and IC.xlsx, which are coupled with the R script.  
